@@ -1,0 +1,98 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Source Sans 3", sans-serif;
+}
+
+/* Layout */
+header {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 375px;
+    padding: 13px;
+    margin: 0 auto;
+    border-bottom: 1px solid #c6c6c6;
+    background-color: white;
+}
+
+main {
+    width: 375px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.post-header-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 13px;
+}
+
+.post-header-user-info {
+    margin-left: 10px;
+}
+
+.button-container {
+    padding: 13px 10px 10px 13px;
+}
+
+.comment-p {
+    padding: 13px;
+    border-bottom: 1px solid #c6c6c6;
+}
+
+/* Button & Link */
+button {
+    border:  none;
+    background: none;
+    padding: 0 10px 0 0;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+/* Typography */
+h1 {
+    font-size: 13px;
+    margin: 0
+}
+
+h2 {
+    font-size: 13px;
+    margin: 0 0 0 13px;
+}
+
+p {
+    font-size: 13px;
+    margin: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* Image */
+.logo {
+    width: 127px;
+}
+
+.user-avatar {
+    width: 34px;
+    border-radius: 50%;
+}
+
+.post-img {
+    width: 375px;
+}
+
+.btn-img {
+    height: 24px;
+}
+
