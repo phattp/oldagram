@@ -29,7 +29,7 @@ This project was created as part of the Scrimba The Frontend Developer Career Pa
 Simply clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/yourusername/oldagram.git
+git clone https://github.com/phattp/oldagram.git
 cd oldagram
 ```
 
