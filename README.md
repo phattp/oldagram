@@ -42,4 +42,4 @@ cd oldagram
 
 ---
 
-Created by Phatthara Pisootrapee | [Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+Created by [Phatthara Pisootrapee](https://github.com/phattp) | [Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
